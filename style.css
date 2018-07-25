@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+
+@import url('https://fonts.googleapis.com/css?family=Oswald|Roboto');
+
+a{
+   color:#333 !important;
+}
+
+section.video h2{
+  color:#333 !important;
+  font-family: 'Oswald', sans-serif;
+}
+
+section.video .watch-video{
+ font-family: 'Roboto', sans-serif; 
+}
+
+
+section.video p.video-data {
+    color: #808080;
+}
+
