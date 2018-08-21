@@ -1,5 +1,7 @@
 # designing-featured-video-section
-Learn how to create featured video section for your website
+With the popularity of video content skyrocketing, properly featuring your videos can boost your website's engagement. Here's how to design a featured video section for your website.
+Over the last decade, digital marketing's focus on video content has skyrocketed.
+YouTube videos are being consumed at rates never before seen in the company's history, and 45 percent of people watch more than an hour of Facebook or YouTube videos each week. 
 
 ## Tutorial		  
 For detailed instruction's, view Solodev's [Designing a Featured Video Section for Your Website](https://www.solodev.com/blog/designing-a-featured-video-section-for-your-website.stml) article.
